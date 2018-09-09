@@ -1,0 +1,2 @@
+render:
+	povray main.ini
